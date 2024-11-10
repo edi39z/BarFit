@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799958434328",
+    "project_id": "barfit-2c7b6",
+    "storage_bucket": "barfit-2c7b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799958434328:android:ab8bd9143d790bc110396d",
+        "android_client_info": {
+          "package_name": "com.example.barfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv4n3CZHUjbnDyMKJ1SEGjxApBiVRQh_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
