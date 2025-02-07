@@ -1,4 +1,4 @@
-package com.example.barfit.screen.`fun`.BottomNavBar
+package com.example.barfit.`fun`.BottomNavBar
 
 import androidx.compose.runtime.Composable
 

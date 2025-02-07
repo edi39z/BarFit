@@ -1,4 +1,4 @@
-package com.example.barfit.screen.`fun`
+package com.example.barfit.`fun`
 
 import com.example.barfit.R
 

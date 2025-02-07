@@ -8,7 +8,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
-import androidx.navigation.Navigation
+import com.example.barfit.`fun`.Navigation
 import com.example.barfit.screen.auth.`fun`.AuthManager
 import com.example.barfit.ui.theme.BarFitTheme
 
